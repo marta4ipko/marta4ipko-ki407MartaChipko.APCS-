@@ -1,4 +1,4 @@
-# Project Title: Rock-Paper-Scissors Game Server  
+А# Project Title: Rock-Paper-Scissors Game Server  
 
 Repository Details  
 This repository contains the implementation of a **Rock-Paper-Scissors Game Server** that handles multiple client requests, determines the game outcome, and returns the results. The project is developed using Python for server-side logic, with testing and coverage reporting implemented to ensure code reliability.  
@@ -15,7 +15,7 @@ Implement a Rock-Paper-Scissors game server that receives client inputs, process
 
 ## Student Details  
 **Student Number**: 20  
-**Name**: Serhii Protasik  
+**Name**: Marta Chipko
 **Task Assignment**: Variant 20 RPS/JSON  
 
 ## Technology Stack  
